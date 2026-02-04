@@ -26,14 +26,14 @@ Build complete software projects from requirements to deployment with minimal hu
 ```bash
 # Clone this repository into your project's .claude directory
 cd your-project-root
-git clone https://github.com/yourusername/claude-agent-system.git .claude
+git clone https://github.com/Profesooor/AI-agent.git .claude
 
 # Or if .claude directory doesn't exist yet
 mkdir -p .claude
 cd .claude
-git clone https://github.com/yourusername/claude-agent-system.git .
-mv claude-agent-system/* .
-rm -rf claude-agent-system
+git clone https://github.com/Profesooor/AI-agent.git .
+mv AI-agent/* .
+rm -rf AI-agent
 
 # Initialize the system
 ./.claude/scripts/init-project.sh
@@ -268,8 +268,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/claude-agent-system/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/claude-agent-system/discussions)
+- **Issues:** [GitHub Issues](https://github.com/Profesooor/AI-agent/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Profesooor/AI-agent/discussions)
 
 ## 🌟 Star History
 
