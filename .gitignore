@@ -1,0 +1,31 @@
+# User-specific state files (should not be shared)
+state/progress.json
+state/decisions.json
+state/performance.json
+state/TASKS.json
+
+# User-specific learning database (project-specific)
+learning/patterns.json
+learning/pitfalls.json
+learning/agent-performance.json
+
+# User-specific knowledge files (project-specific)
+knowledge/ARCHITECTURE.md
+knowledge/REQUIREMENTS.md
+knowledge/CONVENTIONS.md
+knowledge/DECISIONS.md
+
+# Reports and backups
+reports/
+backups/
+summaries/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

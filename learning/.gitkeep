@@ -1,0 +1,6 @@
+# This directory will be populated with learning database
+
+Files that will be created here:
+- patterns.json - Successful implementation patterns
+- pitfalls.json - Known issues to avoid
+- agent-performance.json - Historical agent effectiveness metrics

@@ -1,0 +1,7 @@
+# This directory will be populated with project-specific documentation
+
+Files that will be created here:
+- ARCHITECTURE.md - System architecture documentation
+- REQUIREMENTS.md - Project requirements
+- CONVENTIONS.md - Code standards and best practices
+- DECISIONS.md - Architecture Decision Records (ADR)

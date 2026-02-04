@@ -1,0 +1,7 @@
+# This directory will be populated with session state
+
+Files that will be created here:
+- progress.json - Current phase, tasks, issues
+- decisions.json - Architecture Decision Records
+- performance.json - Token usage and costs
+- TASKS.json - Task queue with dependencies
